@@ -8,3 +8,8 @@
 
 # used webpack for performance of the application
 
+# clone appl - git clone
+
+# then install all the node_modules -  npm i
+
+# start the dev server - npm run start:dev
