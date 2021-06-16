@@ -8,7 +8,7 @@
 
 # used webpack for performance of the application
 
-# clone appl - git clone
+# clone application - git clone
 
 # then install all the node_modules -  npm i
 
